@@ -1,0 +1,65 @@
+table{
+    border: 1px solid white;
+    border-collapse: collapse;
+    text-align: center;
+    width: 800px;
+}
+
+.azul
+{
+    border: 1px solid white;
+    text-align: center;
+    color:black;
+    background-color:#66a8be;
+}
+
+.azul-medio
+{
+    border: 1px solid white;
+    text-align: left;
+    color:black;
+    background-color:#91c4d5 
+}
+
+.azul-claro
+{
+    border: 1px solid white;
+    text-align: center;
+    color:black;
+    background-color: #d6eaf1
+}
+
+
+td
+{
+    border: 1px solid white;
+    vertical-align: left;
+    height: 50px;
+    background-color:#91c4d5;
+}   
+
+.centro
+{
+    text-align: center;
+}
+
+
+.verde
+{
+    border: 1px solid white;
+    background-color: #b1cc7f;
+    text-align: left;
+    color: black;
+ 
+}
+
+.verde-claro
+{
+    border: 1px solid white;
+    background-color: #d8e1c6;
+    text-align: center;
+    color: black;
+}
+
+
+
